@@ -1,1 +1,0 @@
-"""StoreScope analytics helpers."""
